@@ -1,0 +1,18 @@
+th{
+    font-weight: 800;
+    background-color: navy;
+    color: red;
+    font-family:sans-serif;
+}
+table{
+    font-family:helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+}
+td{
+    background-color: fuchsia;
+    color: blue;
+    font-family:fantasy;
+}
